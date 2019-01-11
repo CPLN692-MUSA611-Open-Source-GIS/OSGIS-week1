@@ -1,16 +1,18 @@
-# Open Source Tools For GIS - Week 1
+# Open Source GIS for the Web - Week 1
 
 ### Readings/Homework
 
 #### Code Academy
 
-* Sign up for [Code Academy](https://www.codecademy.com/)
-* None of the 'PRO' (non-free) sections are assigned!
-* Complete Units in the Course Academy [Introductory Javascript coursework](https://www.codecademy.com/learn/introduction-to-javascript)
+* Watch videos about Javascript basics
   - Data, types, and assignment
   - Responding to conditions (conditionals)
   - Functions (defining behaviors that take some input and maybe return a result)
   - Scope/Scoping rules (where things are defined and where they aren't)
+* Optionally, sign up for [Code Academy](https://www.codecademy.com/) if you'd like extra practice
+
+> NOTE: All materials in this course are free by design.
+
 
 ### Project
 
@@ -44,7 +46,7 @@ reload the browser. You should see three markers.
 
 #### Extra
 
-In this class, we are using a Javascript library called [Leaflet](http://leafletjs.com/) to handle
+We are using a Javascript library called [Leaflet](http://leafletjs.com/) to handle
 mapping in the browser. You can check out the [Leaflet Docs](http://leafletjs.com/reference.html)
 to get an idea of what it can do.
 
@@ -54,5 +56,3 @@ of graphics cards to generate powerful vizualisations incredibly quickly). Mapbo
 more involved and we won't be touching on it until the second half of the course but the
 [examples provided by Mapbox](https://www.mapbox.com/mapbox-gl-js/example/simple-map/) are
 worth clicking through for inspiration and a sense of where we're headed.
-
-
