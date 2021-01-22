@@ -9,7 +9,11 @@
   - Responding to conditions (conditionals)
   - Functions (defining behaviors that take some input and maybe return a result)
   - Scope/Scoping rules (where things are defined and where they aren't)
-* Optionally, sign up for [Code Academy](https://www.codecademy.com/) if you'd like extra practice
+  - Optionally, sign up for [Code Academy](https://www.codecademy.com/) if you'd like extra practice
+* Install tools for the course and kick the tires
+  - Github for desktop
+  - Visual Studio Code (or Atom, which some people find simpler)
+  - Javascript Console (you pick the browser)
 
 > NOTE: All materials in this course are free by design.
 
