@@ -4,16 +4,21 @@
 
 #### Code Academy
 
+* Install tools for the course and kick the tires
+  - Github for desktop
+  - Visual Studio Code (or Atom, which some people find simpler)
+  - Javascript Console (you pick the browser)
 * Watch videos about Javascript basics
   - Data, types, and assignment
   - Responding to conditions (conditionals)
   - Functions (defining behaviors that take some input and maybe return a result)
   - Scope/Scoping rules (where things are defined and where they aren't)
   - Optionally, sign up for [Code Academy](https://www.codecademy.com/) if you'd like extra practice
-* Install tools for the course and kick the tires
-  - Github for desktop
-  - Visual Studio Code (or Atom, which some people find simpler)
-  - Javascript Console (you pick the browser)
+* Reflect on recordings
+  - Write down concepts/topics that you had a hard time understanding
+  - Find at least three questions you'd like to see answered
+  - If you're really lacking confidence, schedule some time to complete relevant [code academy coursework](https://www.codecademy.com/learn/introduction-to-javascript)
+
 
 > NOTE: All materials in this course are free by design.
 
